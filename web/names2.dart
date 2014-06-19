@@ -37,7 +37,7 @@ class NameList {
   
   idb.Database _db;
   idb.Index _index;
-  int _version = 11;
+  int _version = 12;
   InputElement _first, _last;
   Element _nameItems;
   
